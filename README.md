@@ -6,6 +6,9 @@ Currently, It's a Django web application that visualizes and analyzes temperatur
 - Raspberry Pi 2
 - Two thermal sensors DS18B20
 - Jumper wires
+- Breadboard
+- Adafruit T-Cobbler Plur for Raspberry Pi
+- Resistor 4.7Ω
 
 ## Languages & tools:
 - Python
